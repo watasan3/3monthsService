@@ -15,4 +15,11 @@ npm run dev
 npm run build
 ```
 
+```
+公開URL
+https://threemonthsservice.firebaseapp.com/
+firebaseに送る最終ディレクトリ
+dist
+topページはsrcディレクトリにあるApp.vueを変える。
+
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
